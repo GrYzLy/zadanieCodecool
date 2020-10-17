@@ -1,3 +1,4 @@
 #test git
 #nowa zmiana
-#dodamy nowe
+#nowy feature
+#czwarta zmiana
